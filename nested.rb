@@ -121,7 +121,7 @@
      
 # end
 
-# def adding_to_dennis
+def adding_to_dennis
 	programmer_hash = 
  		{
         :grace_hopper => {
@@ -142,5 +142,5 @@
      
     p programmer_hash[:dennis_ritchie][:languages][1]
 
-# end
+end
 
