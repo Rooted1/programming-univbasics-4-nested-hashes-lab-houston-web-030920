@@ -138,7 +138,7 @@
         }
      }
      
-    # programmer_hash[:dennis_ritchie][:languages] << "Assembly"
+    programmer_hash[:dennis_ritchie][:languages] << "Assembly"
      
     p programmer_hash[:dennis_ritchie][:languages]
 
